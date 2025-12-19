@@ -1,4 +1,4 @@
-# Collection for research papers and books
+# Repository for research papers and books
 
 ## Target topics
 
